@@ -3,7 +3,6 @@ ro.product.system.model=SM-S947B
 ro.product.system.name=m2sxxx
 ro.surface_flinger.supports_background_blur=1
 ro.factory.model=SM-S711B
-dalvik.vm.dex2oat64.enabled=true
 ro.build.official.release=false
 fw.max_users=5
 fw.show_multiuserui=1
